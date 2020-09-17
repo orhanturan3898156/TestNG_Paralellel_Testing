@@ -16,7 +16,7 @@ import java.util.*;
 
 public class Amazon {
 
-    WebDriver driver;
+    WebDriver driver; //my driver
 
 
 
