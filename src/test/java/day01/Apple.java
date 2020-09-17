@@ -8,7 +8,7 @@ import org.testng.annotations.*;
 
 public class Apple {
 
-    public static WebDriver driver;
+    public static WebDriver driver; //driver here
 
 
     @BeforeMethod
